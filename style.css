@@ -21,7 +21,7 @@
 }
 
 .nav{
-	background-color: #F5F5F5;
+	background-color: #37c702b5;
 	display: flex;
 	align-items: center;
 	justify-content: flex-end;
@@ -82,6 +82,6 @@ a:visited{
     display: flex;
     justify-content: center;
     padding: 3px;
-    background-color: #F5F5F5;
+    background-color: #37c702b5;
     color: #000000;
 }
