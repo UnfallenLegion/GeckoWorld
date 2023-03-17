@@ -58,14 +58,13 @@ a:visited{
 }
 
 .information{
-    display: flex;
+    	display: flex;
 	flex-direction:row;
 	justify-content: center;
 	column-gap: 50px
 }
 
 .articles{
-	text-indent: 20px;
 	max-width: 20%;
 	min-width: 20%;
 	font-family:'Times New Roman';
