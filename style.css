@@ -57,14 +57,14 @@ a:visited{
 	margin-top: 10px;
 }
 
-.information{
+.informations{
     display: flex;
 	flex-direction:row;
 	justify-content: center;
 	column-gap: 50px
 }
 
-.information_article{
+.article{
 	text-indent: 20px;
 	max-width: 20%;
 	min-width: 20%;
