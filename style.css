@@ -98,14 +98,14 @@ a:visited{
     flex-wrap: wrap;
 }
 
-#board_img{
-    width: 170px;
-    height: 99px;
+#board img{
+    width: 169px;
+    height: 98px;
     border: 0.5px solid lightblue;
 }
 
 #pieces{
-    width: 855px;
+    width: 1710px;
     height: 300px;
     border: 2px solid mediumspringgreen;
 
@@ -115,8 +115,8 @@ a:visited{
     flex-wrap: wrap;
 }
 
-#pieces_img{
-    width: 170px;
-    height: 99px;
+#pieces img{
+    width: 169px;
+    height: 98px;
     border: 0.5px solid lightblue;
 }
