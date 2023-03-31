@@ -12,7 +12,7 @@ window.onload = function() {
         for (let c = 0; c < columns; c++) {
             
             let tile = document.createElement("img");
-            tile.src = "./images/blank.jpg";
+            tile.src = "./puzzle/blank.jpg";
 
             
             tile.addEventListener("dragstart", dragStart); 
@@ -45,7 +45,7 @@ window.onload = function() {
 
     for (let i = 0; i < pieces.length; i++) {
         let tile = document.createElement("img");
-        tile.src = "./images/" + pieces[i] + ".jpg";
+        tile.src = "./puzzle/" + pieces[i] + ".jpg";
 
         
         tile.addEventListener("dragstart", dragStart); 
