@@ -192,5 +192,9 @@ a:visited{
 	.short{
 		font-size: 4.5vw;
 	}
+	  .nav_item{
+		font-size: 4vw;
+	}
+
 
   }
