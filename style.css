@@ -173,21 +173,23 @@ a:visited{
 	  margin-right: 0;*/
 	}
 	.information{
-		justify-content: center;
+		flex-flow: column;
+		align-items: center;
 		column-gap: 10;
 
 	}
 	.articles_header{
-	  font-size: 3.5vw;
-	  }
+		font-size: 3.5vw;
+		}
 	.articles{
 		font-size: 3vw;
+		max-width: 60%;
 		
 	}
 	.info{
-		font-size: 3;
+		font-size: 3vw;
 	}
-	 .short{
+	.short{
 		font-size: 4.5vw;
 	}
 
