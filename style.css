@@ -175,7 +175,7 @@ a:visited{
 	.information{
 		flex-flow: column;
 		align-items: center;
-		column-gap: 10;
+		column-gap: 10px;
 
 	}
 	.articles_header{
