@@ -177,6 +177,9 @@ a:visited{
 		column-gap: 10;
 
 	}
+	.articles_header{
+	  font-size: 3.5vw;
+	  }
 	.articles{
 		font-size: 3vw;
 		
