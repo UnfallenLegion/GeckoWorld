@@ -187,5 +187,8 @@ a:visited{
 	.info{
 		font-size: 3;
 	}
+	  .short{
+		font-size: 4.5vw;
+	}
 
   }
