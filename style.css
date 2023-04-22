@@ -163,6 +163,33 @@ a:visited{
 	  margin-right: 0;*/
 	}
 
+.information{
+	
+		align-items: center;
+		column-gap: 10px;
+
+.articles_header{
+		font-size: 3.5vw;
+		}
+	.articles{
+		font-size: 3vw;
+		max-width: 60%;
+		
+	}
+	.info{
+		font-size: 3vw;
+	}
+	.short{
+		font-size: 4.5vw;
+	}
+	  .nav_item{
+		font-size: 4vw;
+	}
+	  .footer{
+		font-size: 2.5vw;
+	}
+
+
 	
   }
   @media only screen and (max-width:480px) {
